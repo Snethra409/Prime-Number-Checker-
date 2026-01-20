@@ -1,0 +1,11 @@
+Prime Number Checker 
+
+# Prime Number Checker in C
+
+A simple C program to check whether a number is prime or not.
+
+** Features
+- Accepts user input
+- Checks if the number has only two divisors (1 and itself)
+- Displays the result
+

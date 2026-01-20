@@ -1,0 +1,2 @@
+Enter a number: 21
+Not a Prime Number
